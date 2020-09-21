@@ -15,7 +15,6 @@ import json, os
 
 np.random.seed(1234)
 
-
 def ConvBNActi(x, filters, kernel_size, strides=1, padding='same', kernel_initializer='he_normal'):
     conv = Conv2D(filters=filters, kernel_size=kernel_size, strides=strides, padding=padding,
                   kernel_initializer=kernel_initializer)(x)
