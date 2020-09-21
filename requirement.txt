@@ -1,9 +1,0 @@
-keras
-json
-numpy
-os
-matplotlib
-sklearn
-scipy
-tensorflow
-nibabel
