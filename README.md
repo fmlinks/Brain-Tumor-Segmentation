@@ -1,4 +1,6 @@
 # Path Aggregation U-Net for Brain Tumor Segmentation
+Paper link: https://link.springer.com/article/10.1007/s11042-020-08795-9
+
 This repository contains the tensorflow implementation of the model we proposed in our paper
 
 ## Requirements
