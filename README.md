@@ -1,9 +1,8 @@
 # Brain-Tumor-Segmentation
-Paper: Path aggregation U-Net model for brain tumor segmentation
+# Paper: Path aggregation U-Net model for brain tumor segmentation
+Link:
+https://www.med.upenn.edu/sbia/brats2017.html
 
-
-
-# Path Aggregation U-Net for Brain Tumor Segmentation
 This repository contains the tensorflow implementation of the model we proposed in our paper
 
 ## Requirements
