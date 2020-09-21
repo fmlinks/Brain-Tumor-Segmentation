@@ -1,6 +1,7 @@
-# Path Aggregation U-Net for Brain Tumor Segmentation
+# Brain Tumor Segmentation for MICCAI BraTS (PAUNet FMNet)
+[1] Path Aggregation U-Net for Brain Tumor Segmentation
 Paper link: https://link.springer.com/article/10.1007/s11042-020-08795-9
-# FMNet: Feature Mining Networks for Brain Tumor Segmentation
+[2] FMNet: Feature Mining Networks for Brain Tumor Segmentation
 Paper link: https://ieeexplore.ieee.org/abstract/document/8995303
 
 This repository contains the tensorflow implementation of the model we proposed in our paper
