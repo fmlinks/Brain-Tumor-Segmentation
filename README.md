@@ -1,6 +1,8 @@
 # Brain Tumor Segmentation for MICCAI BraTS (PAUNet FMNet)
+
 [1] Path Aggregation U-Net for Brain Tumor Segmentation
 Paper link: https://link.springer.com/article/10.1007/s11042-020-08795-9
+
 [2] FMNet: Feature Mining Networks for Brain Tumor Segmentation
 Paper link: https://ieeexplore.ieee.org/abstract/document/8995303
 
