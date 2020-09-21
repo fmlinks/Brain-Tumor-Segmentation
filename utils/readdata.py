@@ -84,14 +84,10 @@ del all_data_LGG
 
 
 
-
-
 # shuffle all data
 
 import random
 random.shuffle(all_data)
-
-
 
 
 
